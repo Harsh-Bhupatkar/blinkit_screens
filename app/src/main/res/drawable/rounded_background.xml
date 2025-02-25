@@ -3,6 +3,5 @@
     <solid android:color="@color/white" /> <!-- White color for the background -->
     <size android:width="20dp" android:height="20dp" /> <!-- Optional: control the size -->
     <corners android:radius="20dp" /> <!-- Makes it circular -->
-    <stroke
-        android:width="0.1dp" android:color="@color/black"/>
+    <stroke android:width="0.1dp" android:color="@color/black"/> <!-- border width-->
 </shape>
