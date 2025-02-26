@@ -1,5 +1,6 @@
 This is blinkit ui clone using <b>Android</b>.
 
+![image](https://github.com/user-attachments/assets/45e357e9-d614-403c-897b-718642cec6a4)
 
 
 
